@@ -1,2 +1,4 @@
 Es solo un ejemplo
 Esto fue lo que se modifico en el primer branch mi1
+Este es el contenido de m2 veamos si no da conflicto
+
